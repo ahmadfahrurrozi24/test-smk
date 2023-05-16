@@ -8,5 +8,6 @@
 */
 function sum(a, b) {
     // TODO: jumlahkan a dan b kemudian return hasilnya
+    return a + b;
 }
 module.exports = sum;
